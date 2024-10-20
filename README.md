@@ -6,5 +6,5 @@ This is the official implementation of "W<sup>2</sup>CU-Net: A Weibull and Weier
 
 
 ### Overall workflow:
-![Model Architecture](https://github.com/user-attachments/assets/431cca04-260e-468c-91c5-6b7db5856a5f)
+![Model Architecture](https://github.com/user-attachments/assets/f42826a6-8590-439e-b129-4f98a965d4f0)
 <p align="center"><img src="https://github.com/user-attachments/assets/ebf4216d-2569-47c0-80f1-3020b3fda7a2" width="600"></p>
