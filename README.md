@@ -12,3 +12,4 @@ This is the official implementation of "W<sup>2</sup>CU-Net: A Weibull and Weier
 
 ### Performance comparison with respect to some standard models:
 <p align="center"><img src="https://github.com/user-attachments/assets/93bf9d85-58e5-4b2a-bc6e-7e8f1f9747f1" ></p>
+![3DIRCADB Weibull](https://github.com/user-attachments/assets/f6196c2a-63f3-4011-bd2a-d7ae22b8343d)
